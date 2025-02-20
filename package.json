@@ -1,0 +1,27 @@
+{
+  "name": "kwh-meter-node-example",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "index.js",
+  "scripts": {
+    "test": "welcome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfalest/kwh-meter-node-example.git"
+  },
+  "keywords": [
+    "kwhmeter"
+  ],
+  "author": "alfalest",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/alfalest/kwh-meter-node-example/issues"
+  },
+  "homepage": "https://github.com/alfalest/kwh-meter-node-example#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "jsmodbus": "^4.0.10",
+    "net": "^1.0.2"
+  }
+}
