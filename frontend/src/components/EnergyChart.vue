@@ -1,18 +1,7 @@
 <template>
   <div class="chart-container">
-    <h1>⚡ Real-Time kWh Meter</h1>
-    <h2>Total Energi: {{ energy.toFixed(2) }} kWh</h2>
-
-    <div class="chart-wrapper">
-      <LineChart width="600" height="300" :data="data">
-        <CartesianGrid strokeDasharray="3 3" />
-        <XAxis dataKey="name" />
-        <YAxis />
-        <Tooltip />
-        <Legend />
-        <Line type="monotone" dataKey="energy" stroke="#8884d8" />
-      </LineChart>
-    </div>
+    <h1>⚡ Real-Time kWh Meter by Heiszco</h1>
+    <h2>Energy Usage : {{ energy.toFixed(2) }} kWh</h2>
   </div>
 </template>
 
