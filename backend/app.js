@@ -76,7 +76,7 @@ const readData = () => {
 };
 
 // ✅ Loop untuk Membaca Data Setiap 5 Detik
-setInterval(readData, 5000);
+setInterval(readData, 1000);
 
 // ✅ Modbus Connection Error Handling & Reconnect
 socket.on("connect", () => {

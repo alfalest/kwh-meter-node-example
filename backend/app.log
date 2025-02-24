@@ -1,0 +1,581 @@
+2025-02-24T03:10:05.125Z [INFO] 🚀 Backend running on http://localhost:3000
+2025-02-24T03:10:05.129Z [INFO] ✅ Connected to kWh meter
+2025-02-24T03:10:05.129Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:10:18.888Z [INFO] 💬 Client connected via WebSocket
+2025-02-24T03:17:37.442Z [WARN] 💤 Client disconnected
+2025-02-24T03:17:37.484Z [INFO] 💬 Client connected via WebSocket
+2025-02-24T03:30:40.135Z [ERROR] ❌ Modbus connection error: read ECONNRESET
+2025-02-24T03:30:40.139Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:30:45.162Z [ERROR] ❌ Modbus connection error: connect ENETUNREACH 192.168.96.234:502
+2025-02-24T03:30:45.162Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:30:50.179Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:51510)
+2025-02-24T03:30:50.179Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:30:55.194Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:51569)
+2025-02-24T03:30:55.195Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:31:00.207Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:51627)
+2025-02-24T03:31:00.208Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:31:05.223Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:51685)
+2025-02-24T03:31:05.223Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:31:10.239Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:51742)
+2025-02-24T03:31:10.239Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:31:15.239Z [INFO] ✅ Connected to kWh meter
+2025-02-24T03:31:15.239Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:31:15.240Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:31:15.240Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:31:15.240Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:31:15.240Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:31:15.240Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:31:15.240Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:31:15.240Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:31:15.241Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:31:15.241Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:31:15.241Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:31:15.241Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:31:15.241Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:31:15.241Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:51849)
+2025-02-24T03:31:15.242Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:31:20.261Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:51911)
+2025-02-24T03:31:20.262Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:31:25.277Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:51971)
+2025-02-24T03:31:25.277Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:31:30.292Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:52029)
+2025-02-24T03:31:30.293Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:31:35.307Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:52086)
+2025-02-24T03:31:35.307Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:31:40.311Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:52148)
+2025-02-24T03:31:40.311Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:31:45.327Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:52215)
+2025-02-24T03:31:45.327Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:31:50.328Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:52276)
+2025-02-24T03:31:50.328Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:31:55.344Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:52334)
+2025-02-24T03:31:55.344Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:32:00.361Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:52392)
+2025-02-24T03:32:00.361Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:32:05.378Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:52450)
+2025-02-24T03:32:05.378Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:32:10.392Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:52508)
+2025-02-24T03:32:10.392Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:32:15.408Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:52567)
+2025-02-24T03:32:15.408Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:32:20.423Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:52625)
+2025-02-24T03:32:20.424Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:32:25.439Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:52682)
+2025-02-24T03:32:25.439Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:32:30.439Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:52741)
+2025-02-24T03:32:30.440Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:32:35.461Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:52798)
+2025-02-24T03:32:35.461Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:32:40.476Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:52858)
+2025-02-24T03:32:40.477Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:32:45.491Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:52916)
+2025-02-24T03:32:45.491Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:32:50.493Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:52974)
+2025-02-24T03:32:50.493Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:32:55.506Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:53032)
+2025-02-24T03:32:55.506Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:33:00.509Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:53098)
+2025-02-24T03:33:00.509Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:33:05.523Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:53233)
+2025-02-24T03:33:05.524Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:33:10.539Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:53297)
+2025-02-24T03:33:10.539Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:33:15.540Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:53363)
+2025-02-24T03:33:15.540Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:33:20.543Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:53420)
+2025-02-24T03:33:20.543Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:33:25.561Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:53519)
+2025-02-24T03:33:25.561Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:33:30.577Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:53591)
+2025-02-24T03:33:30.578Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:33:35.592Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:53649)
+2025-02-24T03:33:35.592Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:33:40.611Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:53706)
+2025-02-24T03:33:40.611Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:33:45.625Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:53764)
+2025-02-24T03:33:45.625Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:33:50.639Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:53854)
+2025-02-24T03:33:50.639Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:33:55.661Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:53913)
+2025-02-24T03:33:55.661Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:34:00.676Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:53974)
+2025-02-24T03:34:00.676Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:34:05.691Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:54031)
+2025-02-24T03:34:05.692Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:34:10.693Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:54088)
+2025-02-24T03:34:10.693Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:34:15.708Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:54145)
+2025-02-24T03:34:15.709Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:34:20.714Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:54212)
+2025-02-24T03:34:20.714Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:34:25.722Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:54319)
+2025-02-24T03:34:25.722Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:34:30.723Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:54383)
+2025-02-24T03:34:30.723Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:34:35.737Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:54447)
+2025-02-24T03:34:35.738Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:34:40.743Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:54504)
+2025-02-24T03:34:40.743Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:34:45.748Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:54563)
+2025-02-24T03:34:45.749Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:34:50.760Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:54619)
+2025-02-24T03:34:50.761Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:34:55.776Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:54677)
+2025-02-24T03:34:55.777Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:35:00.793Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:54735)
+2025-02-24T03:35:00.793Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:35:05.806Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:54793)
+2025-02-24T03:35:05.807Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:35:10.807Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:54850)
+2025-02-24T03:35:10.808Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:35:15.822Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:54908)
+2025-02-24T03:35:15.822Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:35:20.827Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:54966)
+2025-02-24T03:35:20.827Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:35:25.843Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:55023)
+2025-02-24T03:35:25.843Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:35:30.861Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:55080)
+2025-02-24T03:35:30.861Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:35:35.877Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:55136)
+2025-02-24T03:35:35.877Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:35:40.892Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:55195)
+2025-02-24T03:35:40.893Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:35:45.908Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:55252)
+2025-02-24T03:35:45.909Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:35:50.923Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:55310)
+2025-02-24T03:35:50.923Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:35:55.934Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:55367)
+2025-02-24T03:35:55.935Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:36:00.938Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:55425)
+2025-02-24T03:36:00.938Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:36:05.940Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:55483)
+2025-02-24T03:36:05.940Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:36:10.960Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:55541)
+2025-02-24T03:36:10.961Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:36:15.977Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:55599)
+2025-02-24T03:36:15.977Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:36:20.992Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:55658)
+2025-02-24T03:36:20.993Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:36:26.006Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:55715)
+2025-02-24T03:36:26.006Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:36:31.010Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:55772)
+2025-02-24T03:36:31.011Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:36:36.022Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:55831)
+2025-02-24T03:36:36.023Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:36:41.027Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:55889)
+2025-02-24T03:36:41.027Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:36:46.037Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:55946)
+2025-02-24T03:36:46.037Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:36:51.043Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:56004)
+2025-02-24T03:36:51.043Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:36:56.060Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:56062)
+2025-02-24T03:36:56.060Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:37:01.077Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:56118)
+2025-02-24T03:37:01.077Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:37:06.091Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:56176)
+2025-02-24T03:37:06.092Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:37:11.106Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:56234)
+2025-02-24T03:37:11.107Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:37:16.110Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:56291)
+2025-02-24T03:37:16.110Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:37:21.123Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:56349)
+2025-02-24T03:37:21.123Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:37:26.136Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:56406)
+2025-02-24T03:37:26.136Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:37:31.138Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:56464)
+2025-02-24T03:37:31.138Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:37:36.140Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:56522)
+2025-02-24T03:37:36.141Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:37:41.143Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:56578)
+2025-02-24T03:37:41.143Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:37:46.160Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:56636)
+2025-02-24T03:37:46.160Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:37:51.175Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:56695)
+2025-02-24T03:37:51.176Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:37:56.191Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:56753)
+2025-02-24T03:37:56.191Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:38:01.192Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:56810)
+2025-02-24T03:38:01.192Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:38:06.208Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:56871)
+2025-02-24T03:38:06.208Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:38:11.221Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:56928)
+2025-02-24T03:38:11.222Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:38:16.223Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:56987)
+2025-02-24T03:38:16.224Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:38:21.239Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:57044)
+2025-02-24T03:38:21.239Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:38:26.259Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:57101)
+2025-02-24T03:38:26.260Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:38:31.276Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:57159)
+2025-02-24T03:38:31.277Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:38:36.292Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:57217)
+2025-02-24T03:38:36.292Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:38:41.310Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:57275)
+2025-02-24T03:38:41.310Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:38:46.323Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:57333)
+2025-02-24T03:38:46.323Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:38:51.330Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:57391)
+2025-02-24T03:38:51.330Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:38:56.338Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:57448)
+2025-02-24T03:38:56.338Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:39:01.342Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:57506)
+2025-02-24T03:39:01.342Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:39:06.345Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:57563)
+2025-02-24T03:39:06.346Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:39:11.360Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:57620)
+2025-02-24T03:39:11.360Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:39:16.370Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:57677)
+2025-02-24T03:39:16.370Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:39:21.381Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:57758)
+2025-02-24T03:39:21.381Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:39:26.388Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:57862)
+2025-02-24T03:39:26.388Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:39:31.397Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:57927)
+2025-02-24T03:39:31.398Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:39:36.408Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:57996)
+2025-02-24T03:39:36.409Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:39:41.424Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:58065)
+2025-02-24T03:39:41.424Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:39:46.438Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:58126)
+2025-02-24T03:39:46.438Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:39:51.448Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:58188)
+2025-02-24T03:39:51.448Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:39:56.462Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:58247)
+2025-02-24T03:39:56.462Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:40:01.471Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:58305)
+2025-02-24T03:40:01.472Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:40:06.482Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:58367)
+2025-02-24T03:40:06.482Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:40:11.486Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:58428)
+2025-02-24T03:40:11.486Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:40:16.493Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:58485)
+2025-02-24T03:40:16.493Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:40:21.505Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:58542)
+2025-02-24T03:40:21.506Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:40:26.517Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:58601)
+2025-02-24T03:40:26.517Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:40:31.527Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:58683)
+2025-02-24T03:40:31.528Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:40:36.535Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:58740)
+2025-02-24T03:40:36.535Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:40:41.545Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:58797)
+2025-02-24T03:40:41.545Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:40:46.555Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:58853)
+2025-02-24T03:40:46.555Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:40:51.569Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:58911)
+2025-02-24T03:40:51.569Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:40:56.577Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:58969)
+2025-02-24T03:40:56.577Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:41:01.584Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:59047)
+2025-02-24T03:41:01.584Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:41:06.588Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:59106)
+2025-02-24T03:41:06.588Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:41:11.601Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:59162)
+2025-02-24T03:41:11.602Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:41:16.609Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:59221)
+2025-02-24T03:41:16.609Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:41:21.616Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:59278)
+2025-02-24T03:41:21.616Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:41:26.632Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:59340)
+2025-02-24T03:41:26.632Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:41:31.647Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:59398)
+2025-02-24T03:41:31.647Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:41:36.658Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:59457)
+2025-02-24T03:41:36.658Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:41:41.668Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:59518)
+2025-02-24T03:41:41.668Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:41:46.673Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:59578)
+2025-02-24T03:41:46.673Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:41:51.674Z [INFO] ✅ Connected to kWh meter
+2025-02-24T03:41:51.674Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.674Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.674Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.674Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.674Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.675Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.675Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.675Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.675Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.675Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.675Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.675Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.675Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.675Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.676Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.676Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.676Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.676Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.676Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.676Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.676Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.677Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.677Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.677Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.677Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.677Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.677Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.677Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.677Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.677Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.677Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.677Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.678Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.678Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.678Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.678Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.678Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.678Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.678Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.678Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.678Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.678Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.678Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.679Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.679Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.679Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.679Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.679Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.679Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.679Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.679Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.679Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.679Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.679Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.680Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.680Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.680Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.680Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.680Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.680Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.680Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.680Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.680Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.680Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.681Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.681Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.681Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.681Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.681Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.681Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.681Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.682Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.682Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.682Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.682Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.682Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.682Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.682Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.682Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.682Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.683Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.683Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.683Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.683Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.683Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.683Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.683Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.683Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.683Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.683Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.683Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.684Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.684Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.684Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.684Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.684Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.684Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.684Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.684Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.684Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.685Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.685Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.685Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.685Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.685Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.685Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.685Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.685Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.685Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.685Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.685Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.686Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.686Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.686Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.686Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.686Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.686Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.686Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.686Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.686Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.686Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.686Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.686Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.687Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.687Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.687Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.687Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.687Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.687Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.687Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.687Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.687Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.687Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.687Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.687Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.688Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.688Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.688Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.688Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.688Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.688Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.688Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.688Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.688Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.688Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.688Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.689Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.689Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.689Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.689Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.689Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.689Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.689Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.689Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.689Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.689Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.689Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.690Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.690Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.690Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.690Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.690Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.690Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.690Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.690Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.690Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.690Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.690Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.690Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.691Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.691Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.691Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.691Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.691Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.691Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.691Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.691Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.691Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.691Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.692Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.692Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.692Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.692Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.692Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.692Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.692Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.692Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.692Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.692Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.692Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.692Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.693Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.693Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.693Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.693Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.693Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.693Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.693Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.693Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.693Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.693Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.693Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.693Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.693Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.694Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.694Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.694Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.694Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.694Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.694Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.694Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.694Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.694Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.694Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.694Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.694Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.695Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.695Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.695Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.695Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.695Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.695Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.695Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.695Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.695Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.695Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.695Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.696Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.696Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.696Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.696Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.696Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.696Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.696Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.696Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.696Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.696Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.696Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.697Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.697Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.697Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.697Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.697Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.697Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.697Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.697Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.697Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.697Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.698Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.698Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.698Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.698Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.698Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.698Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:41:51.699Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:59635)
+2025-02-24T03:41:51.699Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:41:56.700Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:59694)
+2025-02-24T03:41:56.701Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:42:01.712Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:59751)
+2025-02-24T03:42:01.712Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:42:06.714Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:59808)
+2025-02-24T03:42:06.714Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:42:11.715Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:59865)
+2025-02-24T03:42:11.715Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:42:16.722Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:59924)
+2025-02-24T03:42:16.722Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:42:21.736Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:59983)
+2025-02-24T03:42:21.737Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:42:26.751Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:60040)
+2025-02-24T03:42:26.752Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:42:31.753Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:60099)
+2025-02-24T03:42:31.753Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:42:36.758Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:60171)
+2025-02-24T03:42:36.759Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:42:41.677Z [WARN] 💤 Client disconnected
+2025-02-24T03:42:41.718Z [INFO] 💬 Client connected via WebSocket
+2025-02-24T03:42:41.763Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:60233)
+2025-02-24T03:42:41.763Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:42:46.769Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:60291)
+2025-02-24T03:42:46.769Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:42:51.779Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:60349)
+2025-02-24T03:42:51.779Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:42:56.792Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:60408)
+2025-02-24T03:42:56.792Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:43:01.797Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:60469)
+2025-02-24T03:43:01.798Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:43:06.810Z [ERROR] ❌ Modbus connection error: connect EISCONN 192.168.96.234:502 - Local (192.168.96.234:60538)
+2025-02-24T03:43:06.811Z [WARN] ⚠️ Modbus connection closed, attempting to reconnect...
+2025-02-24T03:43:12.306Z [INFO] 🚀 Backend running on http://localhost:3000
+2025-02-24T03:43:12.309Z [INFO] ✅ Connected to kWh meter
+2025-02-24T03:43:12.309Z [INFO] 🔁 Reconnected to kWh meter
+2025-02-24T03:43:17.748Z [INFO] 💬 Client connected via WebSocket
