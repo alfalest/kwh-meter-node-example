@@ -1,8 +1,8 @@
 <template>
   <div class="chart-container">
     <!-- <h1>⚡ Real-Time kWh Meter by Heiszco ⚡</h1> -->
-    <h1>⚡ Real-Time kWh Meter ⚡</h1>
-    <h2>Energy Usage: {{ energy.toFixed(2) }} kWh</h2>
+    <h1 class="judul">⚡ Real-Time kWh Meter ⚡</h1>
+    <p class="sub-judul">Energy Usage: {{ energy.toFixed(2) }} kWh</p>
     <div class="canvas-wrapper">
       <canvas ref="chartCanvas"></canvas>
     </div>
@@ -20,15 +20,12 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
-h1 {
-  font-size: 1.8rem;
+.judul {
   font-weight: bold;
-  margin-bottom: 10px;
 }
 
-h2 {
-  font-size: 1.4rem;
-  margin-bottom: 20px;
+.sub-judul {
+  margin-bottom: 25px;
 }
 
 .canvas-wrapper {
@@ -109,7 +106,7 @@ export default {
         });
         if (data.value.length > 20) data.value.shift();
 
-        updateChart(); // Perbarui chart setiap kali data baru diterima
+        updateChart();
       };
 
       // Inisialisasi Chart.js
@@ -121,7 +118,7 @@ export default {
             {
               label: 'Energy Usage (kWh)',
               data: [],
-              borderColor: '#8884d8',
+              borderColor: '#FF822D',
               borderWidth: 2,
               fill: false,
               tension: 0.1,
