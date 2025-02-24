@@ -579,3 +579,29 @@
 2025-02-24T03:43:12.309Z [INFO] ✅ Connected to kWh meter
 2025-02-24T03:43:12.309Z [INFO] 🔁 Reconnected to kWh meter
 2025-02-24T03:43:17.748Z [INFO] 💬 Client connected via WebSocket
+2025-02-24T04:17:22.025Z [WARN] 💤 Client disconnected
+2025-02-24T04:17:22.070Z [INFO] 💬 Client connected via WebSocket
+2025-02-24T04:17:40.066Z [WARN] 💤 Client disconnected
+2025-02-24T04:17:40.096Z [INFO] 💬 Client connected via WebSocket
+2025-02-24T04:17:48.696Z [WARN] 💤 Client disconnected
+2025-02-24T04:17:48.727Z [INFO] 💬 Client connected via WebSocket
+2025-02-24T04:18:10.700Z [WARN] 💤 Client disconnected
+2025-02-24T04:18:10.734Z [INFO] 💬 Client connected via WebSocket
+2025-02-24T04:19:21.130Z [WARN] 💤 Client disconnected
+2025-02-24T04:19:21.133Z [INFO] 💬 Client connected via WebSocket
+2025-02-24T04:19:52.422Z [WARN] 💤 Client disconnected
+2025-02-24T04:19:52.423Z [INFO] 💬 Client connected via WebSocket
+2025-02-24T04:20:11.811Z [INFO] 💬 Client connected via WebSocket
+2025-02-24T04:20:21.176Z [WARN] 💤 Client disconnected
+2025-02-24T04:20:21.178Z [INFO] 💬 Client connected via WebSocket
+2025-02-24T04:20:21.179Z [WARN] 💤 Client disconnected
+2025-02-24T04:20:21.182Z [INFO] 💬 Client connected via WebSocket
+2025-02-24T04:20:25.974Z [WARN] 💤 Client disconnected
+2025-02-24T04:20:25.975Z [WARN] 💤 Client disconnected
+2025-02-24T04:20:25.975Z [INFO] 💬 Client connected via WebSocket
+2025-02-24T04:20:25.976Z [INFO] 💬 Client connected via WebSocket
+2025-02-24T04:20:28.611Z [WARN] 💤 Client disconnected
+2025-02-24T04:21:10.113Z [WARN] 💤 Client disconnected
+2025-02-24T04:21:10.171Z [INFO] 💬 Client connected via WebSocket
+2025-02-24T04:58:29.426Z [WARN] 💤 Client disconnected
+2025-02-24T04:58:29.486Z [INFO] 💬 Client connected via WebSocket
